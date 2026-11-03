@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pupachika.github.io/pausal-tracker/sitemap.xml
